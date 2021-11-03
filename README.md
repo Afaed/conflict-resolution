@@ -1,4 +1,4 @@
 # conflict-resolution
 
-#sub title of repo
+# this is a sub title of repo
 add some text here
